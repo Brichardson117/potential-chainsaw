@@ -16,7 +16,7 @@
   
 
   ## Description
-  A short quiz to test you knowledge of JavaScrpt
+  A short quiz to test you knowledge of JavaScript
     
 
 ## Deployed Link
