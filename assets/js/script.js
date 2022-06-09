@@ -1,18 +1,18 @@
 var questionBank= [
     {
         question : 'What is the HTML element do we use to put JavaScript',
-        option : ['<JavaScript>','<script>','<js>','<scripting>'],
-        answer : '<script>'
+        option : ['JavaScript','script','js','scripting'],
+        answer : 'script'
     },
     {
         question : 'Where is the correct plaxe to insert JavaScript within your HTML?',
-        option : ['In the <head>','both the <head> and <body>','Anywhere you want','end of <body> section'],
-        answer : 'end of <body> section'
+        option : ['In the head','both the head and body','Anywhere you want','end of body section'],
+        answer : 'end of body section'
     },
     {
         question : 'How would you write a "Hello World!" in the console?',
         option : ['console.log("Hello World!")','window.alert("Hello World!")','document.write("Hello World!")'],
-        answer : 'console.log("Hello World!)'
+        answer : 'console.log("Hello World!")'
     },
     {
         question : 'How to you write an arrow function?',
@@ -31,7 +31,7 @@ var questionBank= [
     },
     {
         question: 'How do you add a comment in a JavaScript file?',
-        option: ['<!--comment-->', '/* comment*/', '//comment'],
+        option: ['!--comment--', '/* comment*/', '//comment'],
         answer: '//comment'
     }
 ]
