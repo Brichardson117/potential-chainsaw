@@ -23,11 +23,9 @@
 
 https://brichardson117.github.io/potential-chainsaw/
 
-  ## Tests
-  undefined
 
-  ## Questions
- If you have additional questions you can reach me here brittneyrichardson8@gmail.com and https://github.com/Brichardson117
+ ## Questions
+ If you have additional questions you can reach me here brittneyrichardson8@gmail.com and https://www.linkedin.com/in/brittneyrichardson/
 
 
 
